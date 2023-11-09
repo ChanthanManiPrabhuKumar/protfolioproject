@@ -1,0 +1,75 @@
+
+#header{
+    position: sticky;
+}
+.container-fluid{
+    height: 75px;
+    background: linear-gradient(135deg,#AC44E0,#CA9CE1);
+    margin: 0px;
+    padding: 0px;
+}
+.container-fluid p{
+    font-size: 24px;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin: 0px;
+}
+.container-fluid .col a{
+    color: black;
+
+}
+.container-fluid .col{
+    padding-top: 15px;
+}
+#backimage h2{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 50px;
+}
+#backimage{
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1.0;
+    background-image: url('https://images.pexels.com/photos/15380599/pexels-photo-15380599.jpeg?cs=srgb&dl=pexels-ferdous-hasan-15380599.jpg&fm=jpg');
+}
+#backimage p{
+    font-size: 18px;
+    margin-top: 10px;
+}
+#backimage button{
+    background-color: rgb(123, 48, 123);
+    color: white;
+}
+#about{
+    margin: 60px;
+    text-align: center;
+    font-size: 20px;
+}
+#eduction{
+    margin: 60px;
+    text-align: center;
+    font-size: 20px;
+}
+#skills{
+    margin: 60px;
+    text-align: center;
+    font-size: 20px;
+}
+#navbar{
+    text-decoration: none;
+}
+#protofolio{
+    margin: 60px;
+    text-align: center;
+    font-size: 20px;
+}
+#carouselExampleDark{
+    height: auto;
+}
+#Contactme{
+    margin: 60px;
+    text-align: center;
+    font-size: 20px;
+}
